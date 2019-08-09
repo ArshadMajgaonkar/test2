@@ -9,5 +9,6 @@ class Calc
         System.out.println("enter 2 integers:");
         a-nextInt();
         b-nextInt();
+        System.out.println("a= "+ a +"b= "+b);
     }
 }
