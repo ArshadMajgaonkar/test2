@@ -1,0 +1,51 @@
+pull forcefully
+git pull origin master --allow-unrelated-histories
+
+push the local git repo to the origin to the master branch
+git push -u origin master
+
+initializing a local repo on system --- making a folder a local git repo
+git init
+
+git commit
+git commit index.html  --press q after
+
+git status
+check your current branch and commits
+
+git checkout gh-pages
+change the current branch
+
+git clone <repo -url>
+create a folder using mkdir and enable these cmd
+
+git add
+git add index.html
+
+git diff index.html --if diff exist
+
+git log
+
+git log --oneline
+see a brief log of commits
+
+git show 3493808304892398237
+
+
+git remote -v  :to check if local repo is connnected to remote repo
+
+git remote add remote-repo-name branch-name
+git remote add origin <repo-url>
+
+git remove --cached -r . 
+
+git add . 
+adds everything to staging area
+
+.gitignore
+create a file named as above and in that write all the names of file folders to be excluded
+
+
+to learn -
+git checkout
+git reset

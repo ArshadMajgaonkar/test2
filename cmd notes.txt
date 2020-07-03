@@ -1,0 +1,8 @@
+to find status of a port :
+netstat -na | find "8080"
+
+shutdown server :
+db.shutdownServer()
+
+exit the client:
+exit
