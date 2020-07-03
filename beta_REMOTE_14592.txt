@@ -1,5 +1,4 @@
 this is second file 
 this is commit 2 today
-hotfix feature added
 iss4-c1- half work done 
 iss4-c2- half work done 
